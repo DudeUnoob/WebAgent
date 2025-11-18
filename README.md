@@ -2,6 +2,8 @@
 
 A powerful tool to test how well AI agents can navigate and interact with your website. Get detailed performance metrics, execution times, and actionable insights to improve your website's AI-friendliness.
 
+DEMO VIDEO: https://youtu.be/fbh4esnyE4Y
+
 ![BenchMark My Website](https://via.placeholder.com/800x400/2563eb/ffffff?text=BenchMark+My+Website)
 
 ## ✨ Features
